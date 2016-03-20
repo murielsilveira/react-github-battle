@@ -4,7 +4,8 @@
   "description": "learning react",
   "main": "index.js",
   "scripts": {
-    "production": "webpack -p"
+    "production": "webpack -p",
+    "start": "webpack-dev-server"
   },
   "author": "Muriel Silveira <murielkong@gmail.com>",
   "license": "ISC",
